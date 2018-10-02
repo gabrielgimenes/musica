@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+div#tecla{
+	width:900px;
+	height:580px;
+	margin:auto;
+	background:url("../_imagens/teclado.gif")no-repeat;
+	
+}
